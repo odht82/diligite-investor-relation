@@ -1,0 +1,18 @@
+.decorOne{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+.decorTwo{
+    position: absolute;
+    left: 0px;
+    top: 532px;
+    z-index: 2;
+}
+.decorThree{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 3;
+}
