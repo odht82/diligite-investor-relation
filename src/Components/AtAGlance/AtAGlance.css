@@ -45,7 +45,7 @@
 }
 .glance-heading-container{
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
 }
 .glance-card-heading{
     font-weight: bold;
@@ -66,7 +66,7 @@
 }
 .glance-btn-container{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: baseline;
 }
 .learn-more-btn{

@@ -42,7 +42,7 @@
 }
 .heading-container{
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
 }
 .card-heading{
     font-weight: bold;
@@ -102,7 +102,7 @@
 }
 .btn-container{
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: baseline;
 }
 .see-results-btn{
