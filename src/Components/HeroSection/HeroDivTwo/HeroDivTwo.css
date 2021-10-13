@@ -1,0 +1,43 @@
+.hero-div-two{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    background: 
+    linear-gradient(145deg, rgba(255, 255, 255, 0.74) -30.98%, rgba(255, 255, 255, 0.2) 100%);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 22px 16px 40px rgba(0, 0, 0, 0.12);
+    backdrop-filter: blur(40px);
+    border-radius: 16px;
+    outline: none;
+    padding: 0px 25px 0px 25px;
+}
+.result-center{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #3B1D60;
+    margin: 0px;
+    text-align: justify;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+.quarter{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.result-center-btn{
+    width: 100%;
+    height: 64px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 28px;
+    color: #3B1D60;
+    background: #FFFFFF;
+    border-radius: 14px;
+    border: none;
+    outline: none;
+    margin-bottom: 25px;
+}

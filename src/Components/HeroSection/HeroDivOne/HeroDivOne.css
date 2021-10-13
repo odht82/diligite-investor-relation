@@ -1,0 +1,50 @@
+.hero-div-one{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 16px;
+}
+.heading-top{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #3B1D60;
+    margin: 0px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 51px;
+    color: #FFFFFF;
+    text-shadow: 8px 6px 37px rgba(0, 0, 0, 0.24);
+    margin: 0px;
+    text-align: justify;
+    margin-bottom: 34px;
+}
+.heading-desc{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+    text-shadow: 2px 4px 16px rgba(0, 0, 0, 0.24);
+    text-align: justify;
+    margin: 0px;
+    margin-bottom: 80px;
+}
+.hero-btn{
+    width: 278px;
+    height: 52px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #3B1D60;
+    background: #FFFFFF;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+}

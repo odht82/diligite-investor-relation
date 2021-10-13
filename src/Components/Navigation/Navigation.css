@@ -7,8 +7,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    position: relative;
-    z-index: 5;
 }
 .navigation-container{
     width: 65%;
@@ -39,7 +37,6 @@
 .navbar{
     padding: 0px;
     margin: 0px;
-
 }
 .nav{
     display: flex;

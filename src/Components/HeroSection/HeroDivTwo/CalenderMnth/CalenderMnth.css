@@ -1,0 +1,47 @@
+.card-cal{
+    width: 65px;
+    height: 88px;
+    background: linear-gradient(146.66deg, rgba(255, 255, 255, 0.4) -30.98%, rgba(255, 255, 255, 0.04) 100%);
+    box-sizing: border-box;
+    box-shadow: 11px 8px 40px rgba(0, 0, 0, 0.12);
+    backdrop-filter: blur(40px);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+}
+.cal-mnth{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #6833AD;
+    margin: 0px;
+}
+.cal-date{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 75%;
+}
+.dt{
+    width: 7px;
+    height: 7px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 2px;
+    margin: 1px;
+    margin-top: 1px;
+}
+.dt-off{
+    width: 7px;
+    height: 7px;
+    background: rgba(255, 255, 255, 0);
+    border-radius: 2px;
+    margin: 1px;
+    margin-top: 1px;
+}
