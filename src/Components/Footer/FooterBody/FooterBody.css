@@ -1,0 +1,124 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.footer-body{
+    width: 100%;
+    height: 371px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3B1D60;
+}
+.footer-container{
+    width: 76%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.conpany-info{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: #fff;
+    flex-direction: column;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 48px;
+}
+.logo-diligite{
+    width: 180px;
+    height: 59px;
+}
+.logo-text{
+    color: #fff;
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 8px;
+    padding-top: 4px;
+    border-top: 2px solid #fff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.info-secs{
+    display: flex;
+    justify-content: center;
+}
+.info-icon{
+    height: 24px;
+    width: 24px;
+}
+.info-text{
+    margin: 0px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.footer-links{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.links{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-div{
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+}
+.link-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    padding: 0px;
+}
+.heading-link{
+    list-style: none;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF; 
+    margin-bottom: 23px;
+    cursor: pointer;
+}
+.norm-link{
+    list-style: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 23px;
+    cursor: pointer;
+}
+.social-media{
+    height: 40px;
+    width: 40px;
+    margin-left: 16px;
+    cursor: pointer;
+}
