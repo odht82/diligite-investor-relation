@@ -13,9 +13,9 @@ const FooterBody = () => {
         <div className="footer-body">
             <div className="footer-container">
                 <div className="conpany-info">
-                    <div className="logo">
-                        <img src={logo} alt="" className="logo-diligite" />
-                        <p className='logo-text'>INVESTOR RELATION</p>
+                    <div className="footer-logo">
+                        <img src={logo} alt="" className="footer-logo-diligite" />
+                        <p className='footer-logo-text'>INVESTOR RELATION</p>
                     </div>
                     <div className="info">
                         <div className="info-secs">

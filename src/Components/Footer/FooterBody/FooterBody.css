@@ -10,7 +10,7 @@
     background-color: #3B1D60;
 }
 .footer-container{
-    width: 76%;
+    width: 65%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -23,18 +23,18 @@
     color: #fff;
     flex-direction: column;
 }
-.logo{
+.footer-logo{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin-bottom: 48px;
 }
-.logo-diligite{
+.footer-logo-diligite{
     width: 180px;
     height: 59px;
 }
-.logo-text{
+.footer-logo-text{
     color: #fff;
     border: none;
     margin: 0px;
